@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: efa0317d5ebd4e349baa7ff7054f33c8
+timeCreated: 1516362258
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - levelButtonPrefab: {fileID: 1804679907083108, guid: 89063079f4004de4b98c3f2300397b70,
+      type: 2}
+  - levelButtonContainer: {instanceID: 0}
+  - shopButtonPrefab: {fileID: 1972111700501722, guid: 51d66f47a99d05342a358c12f663c417,
+      type: 2}
+  - shopButtonContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
