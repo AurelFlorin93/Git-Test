@@ -1,0 +1,1 @@
+Test de functionalitate al procesului de Pull.
